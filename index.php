@@ -31,7 +31,7 @@
   	</nav>
   	<section>
   		<div class="jumbotron">
-  			<div class="containter">
+  			<div class="container">
   				<h1>꾸역 서브웨이</h1>
   				<p>나만의 서브웨이 메뉴 만들기 </p>
   				<a class="btn btn-default" href="sandwich.php">처음부터 만들기</a>
