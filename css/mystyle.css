@@ -1,0 +1,23 @@
+.sandwich > div{
+	background-color: #DFF0D8;
+	height: 40px;
+}
+.sandwich .bread{
+	background-color: #CCCCCC;
+}
+.sandwich .bread.nobread{
+	background-color: transparent;
+}
+.sandwich .bread.flat{
+	background-color: #FCF8E3;
+}
+.sandwich .bread.white{
+	background-color: #EBEBEB;
+}
+.sandwich .meats.eggmayo{
+	background-color:yellow;
+}
+.sandwich .meats.bmt{
+	background-color#DCA7A7;
+}
+
